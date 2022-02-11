@@ -1,0 +1,20 @@
+{
+  "name": "variable-fonts-Andloe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/variable-fonts-Andloe.git"
+  },
+  "keywords": [],
+  "author": "Pablo Jimenez <jimenezandres1314@gmail.com> (https://github.com/Andloe)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/variable-fonts-Andloe/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/variable-fonts-Andloe#readme"
+}
