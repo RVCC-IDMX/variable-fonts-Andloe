@@ -11,10 +11,12 @@
 
   &__title {
     color: var.$primary-very-dark;
-    font-weight: type.$display-weight;
+    font-weight: 455;
     font-size: type.$display-title-size;
-    letter-spacing: type.$display-spacing;
     text-align: center;
+    letter-spacing: 0.485em;
+    line-height: 2;
+    font-variation-settings: "opsz" 79, "SOFT" 38.3;
   }
 
   &__img {
@@ -24,14 +26,20 @@
   &__desc {
     max-width: 55ch;
     margin-bottom: 1rem;
-    font-size: type.$body-font-size;
-    font-weight: type.$body-font-weight;
+    font-size: 1.375rem;
+    font-weight: 376;
+    line-height: 1.3;
+    letter-spacing: 0.059em;
+    font-variation-settings: "opsz" 9, "SOFT" 100;
     padding: 0rem 5vw;
 
     &--first {
       font-style: italic;
-      font-weight: type.$body-italic-weight;
-      letter-spacing: 0.15em;
+      font-weight: 100;
+      letter-spacing: 0.122rem;
+      line-height: 1.7;
+      font-size: 160%;
+      font-variation-settings: "opsz" 43, "SOFT" 100, "WONK" 1;
     }
   }
 }
